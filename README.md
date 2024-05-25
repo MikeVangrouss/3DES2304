@@ -1,4 +1,4 @@
-# 3DES2304 Cipher
+# 3DES 2304 bits Encryption Cipher
 Triple Data Encryption Standard 2304 bits Encryption Cipher
 
 The Triple DES uses three 56-bit (i.e. 168-bit) keys. However, the internal keys are much larger. The Triple DES uses the three 56-bit keys to generate 3 * 16 48-bit subkeys, i.e. 2304 bits. 
